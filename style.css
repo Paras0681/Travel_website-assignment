@@ -1,0 +1,68 @@
+body{
+	font-family: sans-serif;
+}
+.hdr{
+	border-color: gold;
+	border-style: solid;
+	border-width: 10px;
+	margin-left: 75%;
+	margin-right: 1%;
+	background-color: gold;
+}
+
+img{
+	width: 1200px;
+	height: 720px;
+	object-fit: contain;
+}
+
+.images{
+	margin-left: 30%;
+}
+
+h5{
+	color: #262626;
+}
+
+.carditems{
+	margin-left: 10%;
+	background-image: url('./bg.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	object-fit: contain;
+}
+
+
+.ftr{
+     overflow: hidden;
+     margin-top: 150px;
+     background: #262626;
+     color: #627482 !important;
+     margin-bottom: 0;
+     padding-bottom: 0
+ }
+
+ small {
+     font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .bold-text {
+     color: #989c9e !important
+ }
+
+ .mt-55 {
+     margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ h3 {
+     font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .social {
+     font-size: 21px !important
+ }
+
+ .rights {
+     font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
+ }
